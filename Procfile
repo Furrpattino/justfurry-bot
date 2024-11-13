@@ -1,0 +1,1 @@
+worker: python justfurry_bot.py
